@@ -1,1 +1,1 @@
-# license-verifier.
+# license-verifier
