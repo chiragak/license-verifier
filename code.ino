@@ -10,7 +10,7 @@ SoftwareSerial fingerPrint(2, 3);
 uint8_t id;
 Adafruit_Fingerprint finger = Adafruit_Fingerprint(&fingerPrint);
 #define enroll 14     //A0
-#define del 15         //A1
+#define del 15        //A1
 #define up 16           //A2
 #define down 17        //A3
 
